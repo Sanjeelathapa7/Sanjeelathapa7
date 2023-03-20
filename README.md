@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=13ADC3&lines=Hello%2C+There!!+%F0%9F%91%8B;I+am+Sanjeela...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=13ADC3&lines=Hello%2C+There!!+%F0%9F%91%8B;I+am+Sanjeela+Thapa+Magar...)](https://git.io/typing-svg)
 
-
-I'm Sanjeela Thapa Magar.
-
+I am a dedicated and motivated computer science student with comprehensive knowledge in the field of technology. 
 
 ![](https://github-readme-stats.vercel.app/api?username=Sanjeelathapa7&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjeelathapa7&theme=radical&hide_border=false)<br/>
@@ -13,11 +11,11 @@ I'm Sanjeela Thapa Magar.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sanjeelathapa7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeameme.org%2Fmeme%2Fpush-rejected-rebase-deda5d9b3e&psig=AOvVaw1h7F-uLN7JR07ogAqOoZXs&ust=1679385745961000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDwu8KF6v0CFQAAAAAdAAAAABBB" width="512px"/>
+### 😂 Meme
+<img src="https://media.makeameme.org/created/push-rejected-rebase-deda5d9b3e.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanjeelathapa7&icon=0&color=0)](https://visitcount.itsvg.in)
