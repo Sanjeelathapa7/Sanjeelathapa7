@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# 💫 About Me:
-Name: Sanjeela Thapa Magar<br>Education: Computer Science<br>DOB: 2003-01-27<br>Academia: Coventry University<br>Nationality: Nepalese <br>Skills: Python, Java, Flutter, HTML, CSS, JS<br>
+
+I'm Sanjeela Thapa Magar.
 
 
 # 💻 Tech Stack:
