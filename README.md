@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=13ADC3&lines=Hello%2C+There!!+%F0%9F%91%8B;I+am+Sanjeela+Thapa+Magar+.....)](https://git.io/typing-svg)
 
-I am a dedicated and motivated computer science student with comprehensive knowledge in the field of technology. 
+I am a dedicated and motivated Masters in AI student with comprehensive knowledge in the field of technology. 
 
 ![](https://github-readme-stats.vercel.app/api?username=Sanjeelathapa7&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanjeelathapa7&theme=radical&hide_border=false)<br/>
